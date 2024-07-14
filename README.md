@@ -17,7 +17,7 @@ This project involves the development of a seat reservation system using Java. T
 ### Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/Seat-Reservation-System.git
+   git clone https://github.com/fvthima/Seat-Reservation-System.git
    cd Seat-Reservation-System
 
 2. **Build the Project**:
